@@ -1,12 +1,4 @@
----
-title: Lathindu Pramuditha
-date: '2021-01-29'
-spoiler: Code Styled Readme Template
-categories: ["code-styled", "all-profile"]
-githubUsername: 'lathindu1'
----
-
-<h2ආයුබෝවන් (Welcome)🙏🏻, I'm Lathindu Pramuditha Amarasekara! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2> ආයුබෝවන් (Welcome)🙏🏻, I'm Lathindu Pramuditha Amarasekara! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Engineer at <a href="http://www.speralabs.com">Speralabs</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -19,7 +11,7 @@ githubUsername: 'lathindu1'
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const lathindu1 = {
     pronouns: "He" | "Him",
     code: ["php", "Python","Typescript", "Java"],
     askMeAbout: ["web dev", "tech", "app dev"],
