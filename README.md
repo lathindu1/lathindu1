@@ -67,6 +67,9 @@ class ProfileOfLathindu extends Life
 }
 
 ```
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=lathindu1&theme=dracula)](https://github.com/lathindu1/github-readme-activity-graph)
 
 
