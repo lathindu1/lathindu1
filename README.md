@@ -69,14 +69,12 @@ class ProfileOfLathindu extends Life
 ```
 ##My Article
 
-* [How To Integrate Metamask with Laraval-part 01] (https://dev.to/lathindu1/metamask-integration-with-laravel-4mng)
-
-
+⭐️ [ How To Integrate Metamask with Laraval-part 01 ](https://dev.to/lathindu1/metamask-integration-with-laravel-4mng)
 
 
 ##Public Projets
 
-* [WUSL Notes (Univercity Notes Share Platform)] (https://wuslnotes.com/)
+⭐️ [ WUSL Notes (Univercity Notes Share Platform) ](https://wuslnotes.com/)
 
 
 
