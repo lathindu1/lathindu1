@@ -67,10 +67,13 @@ class ProfileOfLathindu extends Life
 
 ⭐️ [ How To Integrate Metamask with Laraval-part 01 ](https://dev.to/lathindu1/metamask-integration-with-laravel-4mng)
 
+⭐️ [ How To Validate Metamask Transactions With EtherScan (How To Integrate Metamask with Laraval-part 02) ](https://dev.to/lathindu1/validate-metamask-transactions-with-etherscan-metamask-integration-with-laravel-part-2-25h6)
 
 ## Public Projets
 
 ⭐️ [ WUSL Notes (Univercity Notes Share Platform) ](https://wuslnotes.com/)
+
+⭐️ [ Tutorials Project ](https://github.com/lathindu1/tutorials)
 
 
 
