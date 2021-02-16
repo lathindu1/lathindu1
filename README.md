@@ -67,8 +67,18 @@ class ProfileOfLathindu extends Life
 }
 
 ```
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+##My Article
+
+* [How To Integrate Metamask with Laraval-part 01] (https://dev.to/lathindu1/metamask-integration-with-laravel-4mng)
+
+
+
+
+##Public Projets
+
+* [WUSL Notes (Univercity Notes Share Platform)] (https://wuslnotes.com/)
+
+
 
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=lathindu1&theme=dracula)](https://github.com/lathindu1/github-readme-activity-graph)
 
