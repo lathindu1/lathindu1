@@ -65,9 +65,13 @@ class ProfileOfLathindu extends Life
 ```
 ## My Article
 
+⭐️ [ Laravel Best Practice (Article 1: Naming Conventions) ](https://dev.to/lathindu1/laravel-best-practice-coding-standards-part-01-304l)
+
 ⭐️ [ How To Integrate Metamask with Laraval-part 01 ](https://dev.to/lathindu1/metamask-integration-with-laravel-4mng)
 
 ⭐️ [ How To Validate Metamask Transactions With EtherScan (How To Integrate Metamask with Laraval-part 02) ](https://dev.to/lathindu1/validate-metamask-transactions-with-etherscan-metamask-integration-with-laravel-part-2-25h6)
+
+
 
 ## Public Projets
 
