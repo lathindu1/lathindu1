@@ -1,6 +1,6 @@
 <h2> ආයුබෝවන් (Welcome)🙏🏻, I'm Lathindu Pramuditha Amarasekara! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://www.speralabs.com">Speralabs</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Founder, CEO AT <a href="https://axcertro.com">Axcertro</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: lathindu-pramuditha](https://img.shields.io/badge/-lathindu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lathindu-pramuditha/)](https://www.linkedin.com/in/lathindu-pramuditha/)
@@ -20,19 +20,20 @@ class ProfileOfLathindu extends Life
 {
     use HasFactory;
     const LANGUAGES = [
-        'PHP' => 1,
-        'JAVASCRIPT' => 2,
+        'JAVASCRIPT' => 1,
+        'PHP' => 2,
         'PYTHON' => 3,
         'SOLIDITY' => 4,
         'DART' => 5
     ];
 
     const FRAMEWORKS = [
-        'LARAVEL' => 1,
-        'FLUTTER' => 2,
-        'DJANGO' => 3,
-        'ANGULAR' => 4,
-        'IONIC' => 5
+         'NextJs' => 1,
+        'LARAVEL' => 2,
+        'FLUTTER' => 3,
+        'DJANGO' => 4,
+        'ANGULAR' => 5,
+        'IONIC' => 6
     ];
 
     const EXPERIENCE = 'xxxxxxxxxx of hours from 2017';
